@@ -1,0 +1,100 @@
+## .NET
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istPublic/
+Release/
+ReleasePublic/
+x64/
+x86/
+[Aa]rmeabi/
+[Aa]rmeabi-v7a/
+[Aa]rm64/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer database files
+*.mdb
+
+# Windows Installer log files
+*.log
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# User-specific files (Windows)
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer log files
+*.log
+
+# Rider IDE
+.idea/
+
+# .NET Core
+# Uncomment if you have project files that use .NET Core
+# .vs2019/
+# .vs2017/
+# .vscode/
+
+# DotNetBuild
+# .project
+# .idea/
+
+## ASP.NET Core
+# Entity Framework Core
+# .db file for local SQL Server DBs
+*.db
+
+# Azure Functions
+# Local history for Azure Function projects
+.history/
+
+# Publish directory
+publish/
+
+# Test results
+[TestResults]/
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.swp
+
+# IDE directories
+.vscode/
+.idea/
+.vs/
+
+# npm packages
+node_modules/
+
+# NuGet Packages
+*.nupkg
+# .NET tools
+dotnet-tools.json
+
+# ASP.NET development certificates
+https://docs.microsoft.com/en-us/aspnet/core/security/https
+aspnet-https/
+
+# User-specific configuration
+*.vsconfig
